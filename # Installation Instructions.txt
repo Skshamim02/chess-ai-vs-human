@@ -1,0 +1,14 @@
+# Installation Instructions
+
+## Prerequisites
+- Python 3.x installed on your system.
+- Required Python packages:
+  - `tkinter`
+  - `python-chess`
+
+## Steps to Run the Application
+1. Extract the zip file.
+2. Navigate to the `Submission` folder.
+3. Install the required Python libraries:
+   ```bash
+   pip install python-chess
